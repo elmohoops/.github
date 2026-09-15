@@ -1,6 +1,6 @@
 # ELMO Hoops Website Management
 
-Welcome to the GitHub organization for the El Modena Vanguard Boys
+Welcome to the GitHub organization for the El Modena Vanguards Boys
 Basketball website.
 
 This organization contains the custom web applications used by:
